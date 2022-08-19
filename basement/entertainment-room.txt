@@ -1,0 +1,3 @@
+arcade
+sound system
+snacks
